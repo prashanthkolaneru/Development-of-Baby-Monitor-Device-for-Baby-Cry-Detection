@@ -1,0 +1,60 @@
+[1]
+I. Suaste-Rivas, A. Díaz-Méndez, C. Reyes-García and O. Reyes-Galaviz, "Hybrid Neural Network Design and Implementation on FPGA for Infant Cry Recognition," in Text, Speech and Dialogue, Berlin, Heidelberg, Springer, 2006, pp. 703-709.
+[2]
+P. Pal, A. Iyer and R. Yantorno, "Emotion Detection From Infant Facial Expressions And Cries," in International Conference on Acoustics Speed and Signal Processing Proceedings, 2006.
+[3]
+Lavner, R. Cohen and Y., "Infant cry analysis and detection," Convention of Electrical and Electronics Engineers in Israel, 2012.
+[4]
+M. Hariharan, J. Saraswathy , R. Sindhu , Wan Khairunizam , Sazali Yaacob, "Infant cry classification to identify asphyxia using time-frequency analysis," Expert Systems with Applications, 2012.
+[5]
+Y. K. Tadj, "Frequential Characterization of Healthy and Pathologic Newborns Cries," Article.sapub.org, 2013.
+[6]
+Lu Wenping, H. W. L. Y and Li Min., "A facial expression recognition method for baby video surveillance," in 3rd International Conference on Multimedia Technology Proceeding, 2013.
+[7]
+Yizhar Lavner, Rami Cohen, Dima Ruinskiy and Hans IJzerman, "Baby Cry Detection in Domestic Environment using deep learning," ICSEE International Conference on the Science of Electrical Engineering, 2016.
+[8]
+Chen, Chuan-Yu ChangEmail authorChuan-Wang ChangS. KathiravanChen LinSzu-Ta, "DAG-SVM based infant cry classification system using sequential forward floating feature selection," Multidimensional Systems and Signal Processing, vol. 28, no. 3, p. 961–976, 2016.
+[9]
+A. C. N. Suwannata, "The Features Extraction of Infants Cries by Using Discrete Wavelet Transform Techniques," 2016 International Electrical Engineering Congress, iEECON2016, 2-4 March 2016, Chiang Mai, Thailand, 2016.
+[10]
+Gaurav Naithani,Email author, Jaana Kivinummi, Tuomas Virtanen, Outi Tammela, Mikko J. Peltola and Jukka M. Leppänen, "Automatic segmentation of infant cry signals using hidden Markov models," EURASIP Journal on Audio, Speech, and Music Processing, 26 January 2018.
+[11]
+""Raspberry Pi — Teach, Learn, and Make with Raspberry Pi"," R. Foundation, 2018. [Online]. Available: https://www.raspberrypi.org.
+[12]
+"Python.org," Welcome to Python.org, 2018. [Online]. Available: https://www.python.org/..
+38
+[13]
+"TensorFlow," 2018. [Online]. Available: https://www.tensorflow.org/.
+[14]
+"Guide to the Functional API - Keras Documentation, Keras.io," [Online]. Available: https://keras.io/getting-started/functional-api-guide/.
+[15]
+" Numpy.org," NumPy — NumPy, [Online]. Available: http://www.numpy.org/.
+[16]
+"pysound," 2018. [Online]. Available: https://pypi.org/project/pysound/. [Accessed 2018].
+[17]
+"PyAudio Documentation — PyAudio 0.2.11 documentation," People.csail.mit.edu, 2018. [Online]. Available: https://people.csail.mit.edu/hubert/pyaudio/docs/. [Accessed 2018].
+[18]
+"librosa.feature.mfcc — librosa 0.6.2 documentation", Librosa.github.io, 2018," librosa, [Online]. Available: https://librosa.github.io/librosa/generated/librosa.feature.mfcc.html.
+[19]
+" Docs.python.org," threading — Thread-based parallelism — Python 3.7.2rc1 documentation, [Online]. Available: https://docs.python.org/3/library/threading.html.
+[20]
+"sms-api," PyPI, 2018. [Online]. Available: Available: https://pypi.org/project/sms-api/. [Accessed 2018].
+[21]
+K. J. Piczak, "ESC: Dataset for Environmental Sound Classification," in Proceedings of the 23rd Annual ACM Conference on Multimedia, Brisbane, Australia, 2015.
+[22]
+"Github," [Online]. Available: https://github.com/gveres/donateacry-corpus.
+[23]
+jameslyons. [Online]. Available: http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/.
+[24]
+Pedregosa, F. and Varoquaux, G. and Gramfort, A. and Michel, "Scikit-learn: Machine Learning in {P}ython," Journal of Machine Learning Research, vol. 12, pp. 2825--2830, 2011.
+[25]
+Kone Chaka, Nhan Le-Thanh, Remi Flamary and Cecile Belleudy, "Performance Comparison of the KNN and SVM Classification Algorithms in the Emotion Detection System EMOTICA," International Journal of Sensor Networks and Data Communications, vol. 7, 2018.
+[26]
+E. Allibhai, "Towards Data Science," sep 2018. [Online]. Available: https://towardsdatascience.com/building-a-k-nearest-neighbors-k-nn-model-with-scikit-learn-51209555453a.
+39
+[27]
+A. Navlani, "KNN Classification using Scikit-learn," DataCamp, aug 2018. [Online]. Available: https://www.datacamp.com/community/tutorials/k-nearest-neighbor-classification-scikit-learn.
+[28]
+W. Koehrsen, "Towards Data Science," 3 March 2018. [Online]. Available: https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c.
+[29]
+"Simcom.ee," SIM900 | SIMCom | smart machines, smart decision | simcom.ee, , 2018. [Online]. Available: https://simcom.ee/modules/gsm-gprs/sim900
